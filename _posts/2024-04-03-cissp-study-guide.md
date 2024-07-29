@@ -10,7 +10,7 @@ tags:
 
 ---
 
-![image CISSP Security Guide](/assets/images/cissp-security-guide.png)
+![CISSP Security Guide](/assets/images/cissp-security-guide.png)
 
 ## Background
 
