@@ -3,6 +3,8 @@ permalink: /about/
 title: "About"
 ---
 
-Tempor velit sint sunt ipsum tempor enim ad qui ullamco. Est dolore anim ad velit duis dolore minim sunt aliquip amet commodo labore. Ut eu pariatur aute ea aute excepteur laborum. Esse ea esse excepteur minim mollit qui cillum excepteur ex dolore magna. Labore deserunt fugiat incididunt incididunt sint ea. Consequat dolore aute laboris quis proident quis non et est consectetur ex eiusmod sit culpa.
+Konstantin Derenstein is a Director at Avanade with over 20 years of experience driving digital transformation and strategic value for clients. He specializes in cloud migrations, complex project delivery, and translating strategy into operational objectives.
 
-Cupidatat ea do et in excepteur in. Ad nostrud ut est esse eu duis ea sunt eiusmod. Aliquip tempor veniam sint elit fugiat. Velit incididunt laboris amet incididunt labore dolore irure velit excepteur commodo deserunt laborum. Consectetur eu fugiat veniam veniam Lorem labore magna eiusmod. Ea occaecat reprehenderit pariatur consectetur minim labore ut aliquip.
+Konstantin excels at simplifying technical complexities and managing project intricacies to achieve business outcomes. He is a dynamic leader experienced in fostering cross-functional collaboration, developing high-performing teams, and engaging with executives to provide strategic clarity.
+
+In addition to his professional accomplishments, Konstantin actively gives back to the community through volunteering. He holds an MBA and a B.S. in Computer Science. His commitment to continuous learning is exemplified through numerous industry certifications.
