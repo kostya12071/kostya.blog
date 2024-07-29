@@ -61,7 +61,6 @@ Sample prompt (replace with your product details) and attach the CSV file
 > I am developing a mobile app and a web service for a Timing Application. The application must be intuitive to use, 
 > provide accurate timing, and have features that coaches would find useful. The primary users of this app would be coaches for cross-country and track and field events.
 > Attached is the Product backlog for this application. Please review the items for duplicate requirements or missing requirements. Provide a bulleted list of recommendations.
-- prompt
 
 Review the feedback, return to the Backlog tool to implement the necessary changes, and then proceed to re-export the updated list as a CSV file.
 
@@ -73,24 +72,20 @@ User Story Expanding Prompt
 > Generate the list as exportable CSV with the following properties:
 > Columns as State,ID,Work Item Type,Title,Description
 > All data types are string type and should be in quotes
-- prompt
 
 If you notice that the output gets truncated, it is probably because AI runs into an output character limit.  The maximum response size for Claude AI is around 3000 words. This means that the model’s generated response, including both text and spaces, should not exceed this limit.  If this occurs, simply ask Claude AI to continue:
 
 > please continue where you left off
-- prompt
 
 Example User Stories that AI came up with:
 
-**Display Timer**
-
-As the user, when I start a timer, it displays prominently on screen with a large font for elapsed time that refreshes every second. Controls to Start, Stop and Reset the timer are visible below the time. If I try to navigate away from the page during an active timer, a warning message prompts me to confirm leaving the page so no timing is missed accidentally.
-
-**Stop a Running Timer**
-
-As a user with a timer in progress, I can click/tap the Stop button below the timer to immediately pause timing. The digits change color to indicate stopped state. I can also resume a stopped timer. If I try stopping an inactive timer, it shows a warning the timer is not currently running.
-
-ai response
+> **Display Timer**
+>
+> As the user, when I start a timer, it displays prominently on screen with a large font for elapsed time that refreshes every second. Controls to Start, Stop and Reset the timer are visible below the time. If I try to navigate away from the page during an active timer, a warning message prompts me to confirm leaving the page so no timing is missed accidentally.
+>
+> **Stop a Running Timer**
+>
+> As a user with a timer in progress, I can click/tap the Stop button below the timer to immediately pause timing. The digits change color to indicate stopped state. I can also resume a stopped timer. If I try stopping an inactive timer, it shows a warning the timer is not currently running.
 
 ### Step 4: Import Stories into to DevOps
 
