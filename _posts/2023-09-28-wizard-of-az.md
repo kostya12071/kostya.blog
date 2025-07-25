@@ -30,8 +30,6 @@ As Dorothy prepared to embark on finding Az with Todo by her side, she knew chal
 
 And with that, Dorothy set off down the long yellow brick road ahead, determined to overcome this disaster and recover by discovering the wonders she hoped Az could offer as a new home for her servers.
 
-Here is a draft Chapter 2 about lifting and shifting servers to Az:
-
 ## Chapter 2: Lifting and Shifting to Az
 
 After the tornado, Dorothy desperately needed to move her servers from the ruined data center. As she walked the yellow brick road with Todo contemplating what to do, Glinda the Good Witch suddenly appeared floating in a magical bubble.
@@ -137,8 +135,6 @@ The Wizard quickly escorted Dorothy out of the off-limits data center. But she w
 Back through the slick corporate offices, the Wizard activated magic to instantly transport Dorothy home. As she clicked her ruby heels, she considered how to leverage Az’s cloud capabilities without getting swept away in fantasy. She looked forward to architecting cloud-based systems tailored to her real needs back on the farm.
 
 Dorothy realized Az was an effective tool, not a magical panacea. Combined with her own skills and wisdom, she now saw how Az could help her business thrive. But she would approach it with open eyes, not wide-eyed wonder. Because understanding the true complexity behind the curtain revealed an even deeper magic – the power of human innovation.
-
-Okay, here is Chapter 7 using the original draft with just the update about how the Wicked Witch melted away:
 
 ## Chapter 7: Back in Kansas 
 
